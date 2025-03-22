@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Trove - Retro Adventure</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Travel Trove</h1>
+        <p>Explore the world like a retro adventurer!</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#places">Discover Places</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="game-banner">
+        <h2>Let the Adventure Begin!</h2>
+        <button onclick="startAdventure()">Start Game</button>
+    </section>
+
+    <section id="places">
+        <h2>Discover New Places</h2>
+        <div class="place" onclick="showPlace('Kochi')">
+            <p>Kochi</p>
+        </div>
+        <div class="place" onclick="showPlace('Munnar')">
+            <p>Munnar</p>
+        </div>
+        <div class="place" onclick="showPlace('Alappuzha')">
+            <p>Alappuzha</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Travel Trove. Designed for Retro Explorers.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
