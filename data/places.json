@@ -1,0 +1,129 @@
+{
+    "places": [
+      {
+        "name": "Kochi",
+        "description": "A vibrant coastal city in Kerala.",
+        "image": "https://pixabay.com/photos/kochi-kerala-india-123456/"
+      },
+      {
+        "name": "Munnar",
+        "description": "A serene hill station with tea plantations.",
+        "image": "https://unsplash.com/photos/munnar-tea-plantations-654321/"
+      },
+      {
+        "name": "Alappuzha",
+        "description": "Known for tranquil backwaters.",
+        "image": "https://pexels.com/photos/alappuzha-backwaters-789012/"
+      },
+      {
+        "name": "Agra",
+        "description": "Home to the iconic Taj Mahal.",
+        "image": "https://pixabay.com/photos/taj-mahal-agra-india-345678/"
+      },
+      {
+        "name": "Jaipur",
+        "description": "The Pink City famous for palaces.",
+        "image": "https://unsplash.com/photos/jaipur-palaces-987654/"
+      },
+      {
+        "name": "Goa",
+        "description": "Renowned for beaches and nightlife.",
+        "image": "https://pexels.com/photos/goa-beaches-123789/"
+      },
+      {
+        "name": "Darjeeling",
+        "description": "A hill station with tea gardens.",
+        "image": "https://pixabay.com/photos/darjeeling-tea-gardens-456123/"
+      },
+      {
+        "name": "Leh",
+        "description": "A remote town in Ladakh.",
+        "image": "https://unsplash.com/photos/leh-ladakh-321654/"
+      },
+      {
+        "name": "Rishikesh",
+        "description": "Yoga capital of India.",
+        "image": "https://pexels.com/photos/rishikesh-ganges-654987/"
+      },
+      {
+        "name": "Amritsar",
+        "description": "Known for the Golden Temple.",
+        "image": "https://pixabay.com/photos/golden-temple-amritsar-789456/"
+      },
+      {
+        "name": "Varanasi",
+        "description": "A spiritual city on the Ganges.",
+        "image": "https://unsplash.com/photos/varanasi-ghats-987321/"
+      },
+      {
+        "name": "Hampi",
+        "description": "Ruins of the Vijayanagar Empire.",
+        "image": "https://pexels.com/photos/hampi-ruins-123654/"
+      },
+      {
+        "name": "Jodhpur",
+        "description": "The Blue City of Rajasthan.",
+        "image": "https://pixabay.com/photos/jodhpur-blue-city-456789/"
+      },
+      {
+        "name": "Udaipur",
+        "description": "City of Lakes and royal heritage.",
+        "image": "https://unsplash.com/photos/udaipur-lakes-654123/"
+      },
+      {
+        "name": "Manali",
+        "description": "Gateway to snow-capped mountains.",
+        "image": "https://pexels.com/photos/manali-mountains-789321/"
+      },
+      {
+        "name": "Shimla",
+        "description": "Former summer capital of British India.",
+        "image": "https://pixabay.com/photos/shimla-hills-123987/"
+      },
+      {
+        "name": "Mysuru",
+        "description": "Known for palaces and heritage.",
+        "image": "https://unsplash.com/photos/mysuru-palace-456321/"
+      },
+      {
+        "name": "Chennai",
+        "description": "Gateway to South Indian culture.",
+        "image": "https://pexels.com/photos/chennai-beach-789654/"
+      },
+      {
+        "name": "Hyderabad",
+        "description": "City of pearls and biryani.",
+        "image": "https://pixabay.com/photos/hyderabad-charminar-321987/"
+      },
+      {
+        "name": "Bengaluru",
+        "description": "India's tech capital.",
+        "image": "https://unsplash.com/photos/bengaluru-tech-park-654789/"
+      },
+      {
+        "name": "Pondicherry",
+        "description": "French colonial architecture.",
+        "image": "https://pexels.com/photos/pondicherry-architecture-123321/"
+      },
+      {
+        "name": "Ajanta Caves",
+        "description": "Ancient Buddhist cave temples.",
+        "image": "https://pixabay.com/photos/ajanta-caves-456654/"
+      },
+      {
+        "name": "Ellora Caves",
+        "description": "Rock-cut temples.",
+        "image": "https://unsplash.com/photos/ellora-caves-789987/"
+      },
+      {
+        "name": "Khajuraho",
+        "description": "Famous for erotic sculptures.",
+        "image": "https://pexels.com/photos/khajuraho-temples-321123/"
+      },
+      {
+        "name": "Ranthambore",
+        "description": "Wildlife sanctuary with tigers.",
+        "image": "https://pixabay.com/photos/ranthambore-tigers-654654/"
+      }
+    ]
+  }

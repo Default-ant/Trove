@@ -8,37 +8,38 @@
 </head>
 <body>
     <header>
-        <h1>Travel Trove</h1>
-        <p>Explore the world like a retro adventurer!</p>
+        <h1>🎮 Travel Trove</h1>
+        <p>Level up your adventure as you explore India's wonders!</p>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#places">Discover Places</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#home">🏠 Home</a></li>
+                <li><a href="#places">🗺️ Explore</a></li>
+                <li><a href="#reviews">💬 Reviews</a></li>
             </ul>
         </nav>
     </header>
 
     <section id="home" class="game-banner">
-        <h2>Let the Adventure Begin!</h2>
-        <button onclick="startAdventure()">Start Game</button>
+        <h2>Welcome, Traveler!</h2>
+        <p>Embark on an adventure to discover India's magnificent places!</p>
+        <button onclick="loadPlaces()">🎲 Explore All</button>
     </section>
 
-    <section id="places">
-        <h2>Discover New Places</h2>
-        <div class="place" onclick="showPlace('Kochi')">
-            <p>Kochi</p>
+    <section id="places" class="places-container">
+        <!-- Destinations will be displayed dynamically here -->
+    </section>
+
+    <section id="reviews">
+        <h2>Traveler's Journal</h2>
+        <div id="reviews-container">
+            <p>No entries yet! Share your adventures below.</p>
         </div>
-        <div class="place" onclick="showPlace('Munnar')">
-            <p>Munnar</p>
-        </div>
-        <div class="place" onclick="showPlace('Alappuzha')">
-            <p>Alappuzha</p>
-        </div>
+        <textarea id="reviewInput" placeholder="Add your journal entry..."></textarea>
+        <button onclick="addReview()">Save Entry</button>
     </section>
 
     <footer>
-        <p>&copy; 2025 Travel Trove. Designed for Retro Explorers.</p>
+        <p>&copy; 2025 Travel Trove | Power Up Your Adventures</p>
     </footer>
 
     <script src="script.js"></script>
